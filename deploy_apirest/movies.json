@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b7f8c8a4-7e2b-4c91-8ef3-8e3a55dcb13b",
+    "title": "Inception",
+    "year": 2010,
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "director": "Christopher Nolan",
+    "rating": 8.8,
+    "duration": 148,
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/I/51zUbui+gbL._AC_.jpg"
+  },
+  {
+    "id": "8c2aefb9-9c2d-4f72-8c73-92f2b6bfc9c8",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "director": "Christopher Nolan",
+    "rating": 9.0,
+    "duration": 152,
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/I/71pox3q7KzL._AC_SY679_.jpg"
+  },
+  {
+    "id": "dc8944c7-1d10-468f-8c29-15a3b0db69aa",
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": ["Animation", "Adventure", "Fantasy"],
+    "director": "Hayao Miyazaki",
+    "rating": 8.6,
+    "duration": 125,
+    "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
+    "language": "Japanese",
+    "image": "https://m.media-amazon.com/images/I/81gp4dk6pBL._AC_SY679_.jpg"
+  },
+  {
+    "id": "6f75c726-4b13-44b9-b45b-48b1df33a3a1",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "director": "Christopher Nolan",
+    "rating": 8.6,
+    "duration": 169,
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "language": "English",
+    "image": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg"
+  },
+  {
+    "id": "a9cbf0cf-5d0e-48ce-bd79-19308df06c94",
+    "title": "Parasite",
+    "year": 2019,
+    "genre": ["Comedy", "Drama", "Thriller"],
+    "director": "Bong Joon Ho",
+    "rating": 8.5,
+    "duration": 132,
+    "cast": ["Kang-ho Song", "Sun-kyun Lee", "Yeo-jeong Jo"],
+    "language": "Korean",
+    "image": "https://m.media-amazon.com/images/I/91l8D+J3TwL._AC_SY679_.jpg"
+  }
+]
